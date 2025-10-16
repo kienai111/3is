@@ -57,7 +57,7 @@ pip install -r requirements.txt
 4. Настройка конфигурации
 Создайте файл .env в корневой папке проекта:
 
-text
+env
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=my_database
