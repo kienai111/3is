@@ -1,15 +1,3 @@
-мой-проект-базы-данных/
-├── .env
-├── .gitignore
-├── requirements.txt
-├── database.py
-├── app.py
-├── config.py
-├── README.md
-├── LICENSE
-└── docs/
-    └── инструкция.md
-
 ##  Система управления базой данных
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
